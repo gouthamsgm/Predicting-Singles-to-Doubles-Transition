@@ -1,0 +1,21 @@
+
+# R session files
+.RData
+.Rhistory
+.Ruserdata
+.Rproj.user/
+
+# Temporary and operating-system files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+.env.*
+!.env.example
+.Renviron
+
+# Deployment settings
+rsconnect/

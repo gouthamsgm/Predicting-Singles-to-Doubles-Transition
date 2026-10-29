@@ -1,0 +1,8 @@
+.metric,.estimator,.estimate,.config
+accuracy,binary,0.9254587155963303,pre0_mod0_post0
+bal_accuracy,binary,0.7751863975268231,pre0_mod0_post0
+sens,binary,0.9349881796690307,pre0_mod0_post0
+precision,binary,0.9875156054931336,pre0_mod0_post0
+f_meas,binary,0.9605343047965998,pre0_mod0_post0
+roc_auc,binary,0.9382842334969994,pre0_mod0_post0
+pr_auc,binary,0.9979643933815527,pre0_mod0_post0
